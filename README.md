@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @renwenfan :)
-- 👀 I’m interested in data science
-- 📫 Reach me via rfan10@simon.rochester.edu
+- Renwen Fan
+- Data Scientist
 
 <!---
 renwenfan/renwenfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
